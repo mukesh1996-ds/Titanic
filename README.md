@@ -39,3 +39,19 @@ cabin          Cabin number
 embarked       Port of Embarkation   C = Cherbourg, Q = Queenstown, S = Southampton
 
 # Solution:
+There are multiple stages:
+
+## stage1:
+creating an environment
+```bash
+conda create -n hello python=3.7 -y
+```
+## stage2:
+```bash
+conda activate hello
+```
+## stage3:
+```bash 
+pip install -r requirements.txt
+```
+ 
