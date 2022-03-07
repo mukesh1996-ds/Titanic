@@ -54,4 +54,15 @@ conda activate hello
 ```bash 
 pip install -r requirements.txt
 ```
- 
+
+## stage4:
+
+Let's start working with EDA part
+
+## stage5:
+
+Once all my EDA is done let's save the dataset.
+
+## stage6:
+
+Model development begin
