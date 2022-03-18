@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pandas
+pandas-profiling
+notebook
+sklearn
+statsmodels
